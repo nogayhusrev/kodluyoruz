@@ -22,3 +22,4 @@
 
 ### 18 sayısı [2,6,16,18,22,27] dizisinin ortalarında bulunduðundan dolayı "Average case" kapsamına girer.
 
+[https://www.patika.dev/tr](https://www.patika.dev/tr)
