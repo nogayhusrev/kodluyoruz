@@ -1,8 +1,9 @@
 Proje 3
-[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aþamalarýný yazýnýz.
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 
-Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
+Örnek: root x'dir. root'un sağında y bulunur. Solunda z bulunur vb.
 
-	Root olarak 8 olarak seçtim. Sağ tarafında kendinden büyük, sol tarafında kendinden küçük elemanlar bulunacak.
+	Root olarak 5 olarak seçtim. Sağ tarafýnda kendinden büyük, sol tarafında kendinden küçük elemanlar bulunacak.
 
-![](https://media.geeksforgeeks.org/wp-content/uploads/BSTSearch.png)
+![](https://r.resimlink.com/B6xKz-Wy2Vv.png)
+
