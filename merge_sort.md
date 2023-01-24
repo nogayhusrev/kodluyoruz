@@ -18,3 +18,5 @@ Yukarıdaki dizinin sort türüne göre aşamalırını yazınız.
 Big-O gösterimini yazınız.
 
 	Big-O = O(nlogn)
+
+[https://www.patika.dev/tr](https://www.patika.dev/tr)
